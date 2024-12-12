@@ -4,6 +4,7 @@
   "customizations": {
     "vscode": {
       "extensions": ["streetsidesoftware.code-spell-checker"]
+      "extensions": ["microsoft.live.preview"]
     }
   },
   "forwardPorts": [3000]
